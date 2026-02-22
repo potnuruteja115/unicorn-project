@@ -23,3 +23,12 @@ This project analyzes global unicorn companies using Python.
 - Significant growth observed after 2018.
 
 ## 📂 Project Structure
+📦 unicorn-project
+ ┣ 📂 data
+ ┃ ┗ 📄 unicorn_data.csv
+ ┣ 📂 outputs
+ ┃ ┗ 📊 top_countries.png
+ ┣ 📄 analysis.py
+ ┣ 📄 requirements.txt
+ ┣ 📄 README.md
+ ┗ 📄 .gitignore
